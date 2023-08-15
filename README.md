@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raid-salhi" alt="raid-salhi" /></a> </p>
 
-- 🌱 I’m currently learning **Clear Architecture and some cool stuff in the Android dev in General**
+- 🌱 I’m currently learning **Ktor and app Testing**
 
-- 💬 Ask me about **xml , kotlin , android studio , c ...**
+- 💬 Ask me about **xml , kotlin , android studio , Jetpack Compose, ktor , Mysql.**
 
 - 📫 How to reach me **salhiraid2003@gmail.com**
 
