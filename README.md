@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raid-salhi" alt="raid-salhi" /></a> </p>
 
 
-- 🌱 I’m currently learning **Ktor and App Testing**
+- 🌱 I’m currently learning **Compose Multiplatform**
 
 - 💬 Ask me about **Xml , Kotlin , Android Studio ,MySql, Ktor, Jetpack Compose ,UX**
 
